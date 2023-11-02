@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanCK533
 - 👀 I’m interested in Game Development and designing
-- 🌱 I’m currently learning C# for development 
+- 🌱 I’m currently learning C# for development for now
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email :- rohanchemban@gmail.com
 
